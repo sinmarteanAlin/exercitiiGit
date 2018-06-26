@@ -1,0 +1,3 @@
+1)mergem in folderul dorit si avem comanda git init
+2)dupa ce lucram ceva la acel fisier, dam comanda git add .
+3)dam comanda git commit -m "mesaj de commit"
