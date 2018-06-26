@@ -1,3 +1,12 @@
 1)mergem in folderul dorit si avem comanda git init
 2)dupa ce lucram ceva la acel fisier, dam comanda git add .
 3)dam comanda git commit -m "mesaj de commit"
+
+
+Flow-ul pentru git-ul local e :
+
+working copy > staging area > repository
+
+working copy - cand creem un fisier nou pe calculator e aici
+staging area - fisierul dupa ce ii dam un add
+repository - fisierul din staging area dupa ce ii dam commit
