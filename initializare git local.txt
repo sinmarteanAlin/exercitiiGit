@@ -18,3 +18,13 @@ comanda git diff --staged arata diferenta dintre staging area si cea din reposit
 
 
 daca vrem sa facem commit direct fara add, facem comanda git commit -am "mesaj"
+
+
+git checkout -- 'numelefisierului'.extensie   ia fisierul din repository si il pune in working copy-ul nostru
+
+
+git reset HEAD numefisier.extensie  daca avem un fisier un staging area, si vrem sa il scoatem de acolo, sa ii dam unstage, fiindca
+probabil ca am facut vreo greseala
+
+
+pentru a lua o versiune mai veche din repository scriem git checkout si id-ul commit-ului -- numefisier.extensie
