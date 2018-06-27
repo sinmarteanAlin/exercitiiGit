@@ -14,3 +14,7 @@ repository - fisierul din staging area dupa ce ii dam commit
 
 comanda git diff arata diferenta dintre copia locala si cea din staging area
 comanda git diff --staged arata diferenta dintre staging area si cea din repository
+
+
+
+daca vrem sa facem commit direct fara add, facem comanda git commit -am "mesaj"
