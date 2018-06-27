@@ -10,3 +10,7 @@ working copy > staging area > repository
 working copy - cand creem un fisier nou pe calculator e aici
 staging area - fisierul dupa ce ii dam un add
 repository - fisierul din staging area dupa ce ii dam commit
+
+
+comanda git diff arata diferenta dintre copia locala si cea din staging area
+comanda git diff --staged arata diferenta dintre staging area si cea din repository
